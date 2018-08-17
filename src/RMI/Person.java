@@ -1,4 +1,4 @@
-package java.RMI;
+package RMI;
 
 public class Person implements Register {
     private String firstName;
